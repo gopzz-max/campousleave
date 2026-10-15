@@ -1,0 +1,6 @@
+{
+  "name": "CampusLeave - Online Leave Management System",
+  "description": "A comprehensive College Leave Management System with Student, Faculty, and Admin portals, medical certificate upload, multi-tier approvals, and complete PHP/MySQL XAMPP source code explorer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
